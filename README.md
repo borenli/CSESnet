@@ -1,2 +1,5 @@
-# CSESnet
-A deep learning P-wave picker
+CSESnet
+==============================
+
+A deep learning P-wave picker in seismic waveforms
+

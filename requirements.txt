@@ -1,0 +1,11 @@
+# local package
+keras=2.3.1
+tensorflow1.15.0
+tqdm
+obspy
+numpy
+
+# external requirements
+Sphinx
+
+
